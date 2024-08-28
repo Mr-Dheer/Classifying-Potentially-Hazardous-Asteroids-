@@ -6,30 +6,6 @@ The model's purpose is to detect asteroids that pose a risk of collision with Ea
 All the analysis conducted and techniques applied are  documented and stored in the attached PowerPoint file
 
 
-## Project Stages
-
-### The project involves several essential stages:
-
-1. - **Data Inspection and Cleaning:**
-Thoroughly inspected the dataset provided by NASA, addressing any inconsistencies, missing values, or anomalies.
-Cleaned the dataset to ensure data quality and reliability for further analysis.
-
-2. - **Exploratory Data Analysis (EDA):**
-Conducted EDA to gain insights into the characteristics and patterns of potentially hazardous asteroids.
-Utilized visualizations, statistical analyses, and correlation studies to uncover valuable trends and relationships within the data.
-
-3. - **Data Preprocessing:**
-Performed data preprocessing tasks, including feature engineering, normalization, and handling categorical variables as needed.
-Prepared the dataset to be suitable for model development.
-
-4. - **Model Building and Training:**
-Buit and trained a machine learning model using appropriate algorithms to classify asteroids as potentially hazardous or non-hazardous.
-Implemented iterative evaluation and optimization techniques to achieve the best model performance.
-
-
-
-
-
 ### Contributions
 
 Contributions to this project are welcome. Feel free to fork the repository, make improvements, and submit pull requests to enhance the functionality or expand its scope.
