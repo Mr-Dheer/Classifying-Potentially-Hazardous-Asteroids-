@@ -2,7 +2,7 @@
 This project aims to develop a machine learning model to classify potentially hazardous asteroids using a dataset provided by NASA. 
 The model's purpose is to detect asteroids that pose a risk of collision with Earth by identifying those susceptible to gravitational disturbances that can alter their orbits as they revolve around the Sun. By detecting these hazards early, appropriate measures can be taken to mitigate the potential dangers.
 
-### Analysis
+## Analysis
 All the analysis conducted and techniques applied are  documented and stored in the attached PowerPoint file
 
 
