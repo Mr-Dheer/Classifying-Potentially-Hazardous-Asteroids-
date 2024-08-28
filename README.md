@@ -14,7 +14,7 @@ Cleaned the dataset to ensure data quality and reliability for further analysis.
 Conducted EDA to gain insights into the characteristics and patterns of potentially hazardous asteroids.
 Utilized visualizations, statistical analyses, and correlation studies to uncover valuable trends and relationships within the data.
 
-3. -**Data Preprocessing:**
+3. - **Data Preprocessing:**
 Performed data preprocessing tasks, including feature engineering, normalization, and handling categorical variables as needed.
 Prepared the dataset to be suitable for model development.
 
